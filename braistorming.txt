@@ -2,3 +2,11 @@
 
 TODO:
 -API implementation
+
+1. get APIs from Google
+2. Web Scrape a database
+3. make classes
+    a. traffic control positions
+    b. vehicule class
+    c. GUI class
+4. 
